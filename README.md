@@ -1,4 +1,4 @@
-## HAlo MaN TEmAnN
+## HAlo MaN TEmAnNajjsk
 
 ![banner](assets\banner_github.png)
 <!--
