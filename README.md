@@ -1,7 +1,7 @@
 ![banner](assets/banner_github.jpg)
 
 <!-- Header -->
-<h1 align="center">✨ Halo, aku Jonathan D. Ancorra ✨</h1>
+<h1 align="center">✨ Halo, aku Zenathan Diancora ✨</h1>
 <h3 align="center">Pelajar | Game Dev | Content Creator</h3>
 
 <!-- Banner / GIF -->
@@ -11,10 +11,10 @@
 
 <!-- About Me -->
 ## 🧑 Tentang Aku
-- 🏫 Siswa SMK jurusan **Perangkat Lunak**  
+- 🏫 Siswa SMK jurusan **Rekayasa Perangkat Lunak**  
 - 💻 Sedang belajar **Game Development**, **JavaScript**, dan **Flutter**  
 - 🌱 Fokus bikin project kecil dulu, tapi punya mimpi besar  
-- 🎮 Hobi: main game, ngoding, dan ngonten
+- 🎮 Hobi: main game, ngoding, dan bermain basket
 
 <!-- Socials -->
 ## 🌐 Connect with Me
