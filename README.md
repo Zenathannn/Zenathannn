@@ -1,6 +1,6 @@
 ## HAlo Pemai Ngana
 
-![banner](assets/banner_github.png)
+![banner](assets/banner_github.jpg)
 <!--
 **Zenathannn/Zenathannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
