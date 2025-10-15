@@ -1,4 +1,4 @@
-## HAlo MaN TEmAnNajjsk
+## HAlo Pemai Ngana
 
 ![banner](assets\banner_github.png)
 <!--
