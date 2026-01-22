@@ -20,7 +20,7 @@
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsjazz.css?igsh=NXU3d2kzdXk0dWpl)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZenathanDiancora)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bimsz._?_r=1&_t=ZS-93I4zF35jvg)
 
 <!-- Tools & Skills -->
 ## 🛠️ Tech Stack
